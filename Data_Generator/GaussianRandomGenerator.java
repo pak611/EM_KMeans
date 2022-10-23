@@ -1,3 +1,4 @@
+package Data_Generator;
 import java.util.Random;
 
 public class GaussianRandomGenerator {
